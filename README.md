@@ -1,10 +1,9 @@
 # -OIBSIP_cybersecurity_task1
 
-# Nmap Scan Report for LAPTOP-SU13419R (192.168.8.16)
-
+# Nmap Scan Report 
 ## Scan Summary
 - **Date of Scan**: 2026-03-11
-- **Target Host**: LAPTOP-SU13419R (IP: 192.168.8.16)
+- **Target Host**: (IP: 192.168.8.16)
 - **Scan Duration**: 2.51 seconds
 - **Latency**: 0.00053s
 - **Closed Ports**: 97 TCP ports (reset)
